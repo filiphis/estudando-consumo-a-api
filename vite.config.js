@@ -18,4 +18,5 @@ export default defineConfig({
       },
     }),
   ],
+  base: "/estudando-consumo-a-api/",
 });
