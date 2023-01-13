@@ -25,6 +25,6 @@ git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:<USERNAME>/<REPO>.git main:gh-pages
-git push -f git@github.com:filiphis/estudando-consumo-a-api.git consumindo-api-curso-codeboost:gh-pages
+git push -f git@github.com:filiphis/estudando-consumo-a-api.git main:gh-pages
 
 cd -
